@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\Semana-09\Semana-09\Ejercicio01\bin\Debug\Ejercicio01.exe.config
+C:\Users\UPN\Desktop\Semana-09\Semana-09\Ejercicio01\bin\Debug\Ejercicio01.exe
+C:\Users\UPN\Desktop\Semana-09\Semana-09\Ejercicio01\bin\Debug\Ejercicio01.pdb
+C:\Users\UPN\Desktop\Semana-09\Semana-09\Ejercicio01\obj\Debug\Ejercicio01.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Semana-09\Semana-09\Ejercicio01\obj\Debug\Ejercicio01.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Semana-09\Semana-09\Ejercicio01\obj\Debug\Ejercicio01.exe
+C:\Users\UPN\Desktop\Semana-09\Semana-09\Ejercicio01\obj\Debug\Ejercicio01.pdb
+C:\Users\UPN\Desktop\Semana-09\Semana-09\Ejercicio01\obj\Debug\Ejercicio01.exe.config
