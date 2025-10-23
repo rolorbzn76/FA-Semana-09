@@ -8,7 +8,7 @@ can4=0
 for i in range(1,16):
     aleatorio = random.randint(1250,10000)
     print(aleatorio)
-    suma += aleatorio;  # Sumamos los números al
+    suma += aleatorio;  # Sumamos los números aleatorios
     if 1250 <= aleatorio <= 3000:
         can1 += 1
     elif 3001 <= aleatorio <= 5000:
