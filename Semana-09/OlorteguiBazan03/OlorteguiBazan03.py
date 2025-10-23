@@ -1,4 +1,5 @@
 import random
+suma = 0
 can1=0
 can2=0
 can3=0
